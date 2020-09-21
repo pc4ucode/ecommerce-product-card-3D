@@ -4,5 +4,5 @@ Responsive Ecommerce Product Card Design using Vanilla tilt.js | Mousemove 3D Pa
 ## Demo
 [link](https://pc4ucode.github.io/ecommerce-product-card-3D/)
 
-## By
+## Credits
 https://bit.ly/3ckPJcG
